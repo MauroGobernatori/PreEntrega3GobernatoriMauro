@@ -1,8 +1,8 @@
 let productos = [];
 
-let ps1 = new Producto(1, "PlayStation 1", 80000, "../img/PlayStation 1.png");
-let ps2 = new Producto(2,"PlayStation 2", 40000, "../img/PlayStation 2.png");
-let ps3 = new Producto(3,"PlayStation 3", 70000, "../img/PlayStation 3.png");
+let ps1 = new Producto(1, "PlayStation 1", 80000, "img/PlayStation 1.png");
+let ps2 = new Producto(2,"PlayStation 2", 40000, "img/PlayStation 2.png");
+let ps3 = new Producto(3,"PlayStation 3", 70000, "img/PlayStation 3.png");
 let xbox = new Producto(4, "Xbox", 37500, "");
 let xbox360 = new Producto(5, "Xbox 360", 65000, "");
 let xboxone = new Producto(6, "Xbox One", 95000, "");
